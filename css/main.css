@@ -18,3 +18,11 @@ body {
   padding:5px;
   width: 150px;
 }
+
+.item h3 a span {
+  color: #383838 !important;
+}
+
+.page-header {
+  margin: 0;
+}
